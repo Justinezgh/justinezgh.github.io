@@ -2,7 +2,7 @@
 title: Justine Zeghal
 position: Postdoctoral Fellow
 affiliation: Université de Montréal
-email: justine.zeghal (at) umontreal.ca
+email: justine.zeghal (at) umontreal.
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -54,4 +54,4 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
-  - index.md
+  - html_source_file
